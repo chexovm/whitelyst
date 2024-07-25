@@ -5,9 +5,9 @@ To set up an app for the client:
 /client:
 
 - Adjust meta tags/media in /public (keywords, titles, icon, etc.) and style the app how the client wants it
-- change variables in .env
+- set variables in .env
 
 /server:
 
 - server/controllers: change roles according to the Discord server and the application types in each file
-- change variables in .env
+- set variables in .env
