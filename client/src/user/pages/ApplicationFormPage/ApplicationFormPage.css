@@ -1,0 +1,52 @@
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1em;
+  }
+  .question {
+    font-size: small;
+    text-align: center;
+  }
+  .answer {
+    font-size: small;
+  }
+}
+
+.qna-form {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+}
+
+.qna {
+  display: flex;
+  padding: 1.5rem;
+  flex-direction: column;
+  justify-items: space-between;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+}
+
+.answer {
+  width: 100%;
+  min-height: 3rem;
+  resize: vertical;
+  font-family: inherit;
+  font-size: medium;
+}
+
+.submit-btn {
+  font-family: "Bebas Neue", sans-serif;
+  margin-top: 2rem;
+  font-size: large;
+  cursor: pointer;
+  align-self: center;
+  border: none;
+  border-radius: 1px;
+  min-height: 3rem;
+  min-width: 15rem;
+  max-width: 30rem;
+}
+
+.submit-btn:hover {
+  background-color: #fcee0a;
+}
