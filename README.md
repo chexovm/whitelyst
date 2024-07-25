@@ -4,7 +4,7 @@ To set up an app for the client:
 
 /client:
 
-- Adjust meta tags in /public/index.html (keywords, titles, icon, etc.)
+- Adjust meta tags/media in /public (keywords, titles, icon, etc.) and style the app how the client wants it
 - change variables in .env
 
 /server:
