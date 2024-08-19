@@ -1,4 +1,4 @@
-This is a MERN stack app built for my clients that want a website where people can apply for their Discord server roles.
+This is a MERN stack app built for people who want a website where their community members can apply for Discord server roles.
 
 To set up an app for the client:
 
